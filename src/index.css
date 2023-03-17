@@ -5,6 +5,10 @@
 .float {
   animation: float-animation 2.5s infinite ease-in-out;
 }
+.app-background {
+  background-image: url('image.png');
+  /* Otros estilos que desees agregar */
+}
 
 @keyframes float-animation {
   0%,
